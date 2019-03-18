@@ -1,11 +1,11 @@
 # nice-components
-Collection of nice reusable React components.
+Collection of nice reusable React components
 
 ---
 
 ## Input Field
 
-A11y compliant text input component with animated labels.
+A11y compliant text input component with animated labels
 
 ![](https://media.giphy.com/media/9rci4Gzsv6ioynbHu5/giphy.gif)
 
@@ -28,7 +28,7 @@ A11y compliant text input component with animated labels.
 
 ## Tabs
 
-Compound component to create Tab views.
+Compound component to create Tab views
 
 ### Usage
 
