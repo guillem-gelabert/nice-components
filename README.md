@@ -34,18 +34,18 @@ Compound component to create Tab views
 
 ```javascript
 <Tabs>
-	<Tabs.List>
-  	<Tabs.Tab>Sign Up</Tabs.Tab>
+  <Tabs.List>
+    <Tabs.Tab>Sign Up</Tabs.Tab>
     <Tabs.Tab>Sign In</Tabs.Tab>
   </Tabs.List>
   <Tabs.Panels>
-  	<Tabs.Panel>
-    	<div> I am the sign up tab </div>
+    <Tabs.Panel>
+      <div> I am the sign up tab </div>
     </Tabs.Panel>
     <Tabs.Panel>
-    	<div> I am the sign in tab </div>
+      <div> I am the sign in tab </div>
     </Tabs.Panel>
-	</Tabs.Panels>
+  </Tabs.Panels>
 </Tabs>
 ```
 
